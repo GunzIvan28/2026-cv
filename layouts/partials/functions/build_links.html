@@ -1,0 +1,57 @@
+{{/*
+  Local compatibility override for Hugo Blox link building.
+
+  Hugo 0.162 can fail in the upstream partial when SetInMap writes to the
+  scratch-backed dedupe map. This project only uses explicit front matter
+  `links`, so keep the behavior focused and version-stable.
+*/}}
+
+{{ $page := .page }}
+{{ $types := hugo.Data.link_types.types | default dict }}
+
+{{ $links := slice }}
+{{ $seen_keys := slice }}
+
+{{ with $page.Params.links }}
+  {{ range . }}
+    {{ if reflect.IsMap . }}
+      {{ $type := .type | default "custom" }}
+      {{ $url := .url | default "" }}
+
+      {{ if and (not $url) .id }}
+        {{ if eq $type "doi" }}
+          {{ $url = printf "https://doi.org/%v" .id }}
+        {{ end }}
+      {{ end }}
+
+      {{ $key := printf "%s::%s" $type $url }}
+      {{ if and $url (not (in $seen_keys $key)) }}
+        {{ $seen_keys = $seen_keys | append $key }}
+
+        {{ $type_meta := dict }}
+        {{ with index $types $type }}{{ $type_meta = . }}{{ end }}
+
+        {{ $contexts := slice "list" "page" }}
+        {{ with .contexts }}
+          {{ if reflect.IsSlice . }}
+            {{ $contexts = . }}
+          {{ else }}
+            {{ $contexts = slice (printf "%v" .) }}
+          {{ end }}
+        {{ end }}
+
+        {{ $links = $links | append (dict
+            "type" $type
+            "url" $url
+            "icon" (.icon | default (index $type_meta "icon") | default "hero/link")
+            "labelKey" (index $type_meta "label_i18n")
+            "label" (.label | default .name)
+            "contexts" $contexts
+            "rel" .rel
+          ) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $links }}
