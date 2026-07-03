@@ -1,0 +1,37 @@
+schema: hugoblox/author/v1
+slug: community
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Community Contributions and Professional Memberships
+bio: ''
+
+experience:
+  - role: Drivers of antimicrobial resistance in East Africa
+    org: Community and research engagement
+    start: 2020-08-14
+    summary: |
+      Presented on drivers of antimicrobial resistance in East Africa.
+  - role: Understanding transmission dynamics and acquisition of antimicrobial resistance
+    org: Infectious Diseases Institute Research Forum
+    start: 2020-02-27
+    summary: |
+      Presented work on referral hospitals and community settings in East Africa using conventional microbiology and whole-genome sequencing.
+  - role: Antimicrobial resistance awareness seminars
+    org: Kyambogo University
+    start: 2020-02-13
+    end: 2020-02-15
+    summary: |
+      Conducted two antimicrobial resistance awareness seminars.
+  - role: Antimicrobial resistance awareness seminar
+    org: Makerere University School of Public Health
+    start: 2020-02-12
+    summary: |
+      Conducted an antimicrobial resistance awareness seminar.
+  - role: "Lung Health: Metagenomics, Next-Generation Sequencing & Bioinformatics"
+    org: Day of Lung Science, Makerere University College of Health Sciences
+    start: 2019-03-20
+    summary: |
+      Public health genomics and bioinformatics seminar contribution.

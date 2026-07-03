@@ -1,0 +1,31 @@
+schema: hugoblox/author/v1
+slug: memberships
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Professional Memberships
+bio: ''
+
+experience:
+  - role: Amsterdam Institute for Global Health and Development (AIGHD)
+    org: Professional Membership
+    start: 2022-01-01
+    summary: |
+      Member of a platform for global health researchers and interdisciplinary collaboration.
+  - role: African Centers of Excellence in Bioinformatics and Data Intensive Sciences (ACE - IDI)
+    org: Professional Membership
+    start: 2019-01-01
+    summary: |
+      Member of a consortium of research and training centers supporting African bioinformatics capacity.
+  - role: Public Health Alliance for Genomic Epidemiology (PHA4GE)
+    org: Professional Membership
+    start: 2020-01-01
+    summary: |
+      Member of a global coalition supporting standards, best practices, tools, and resources for microbial public health.
+  - role: African Association for Research and Control of Anti-Microbial Resistance (AAAMR)
+    org: Professional Membership
+    start: 2020-01-01
+    summary: |
+      Member of an association supporting training, knowledge exchange, and dissemination of AMR expertise.

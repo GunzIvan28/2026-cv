@@ -2,115 +2,156 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "dna"
+role: Bioinformatics Data Scientist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Ivan Sserwadda is Bioinformatics Data Scientist and infectious disease genomics researcher with expertise in next-generation sequencing, microbial genomics, antimicrobial resistance, metagenomics, and reproducible pipeline development. Experienced in analyzing high-throughput sequencing data for public health surveillance, pathogen characterization, and clinical research across HIV, tuberculosis, malaria, SARS-CoV-2, cancer, and bacterial pathogens. Skilled in Python, R, workflow automation, containerized bioinformatics, statistical analysis, machine learning, and open-source tool development. Strong track record in grant-funded research, scientific publishing, postgraduate teaching, and collaborative capacity building in African genomics and global health.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Uganda National Health Laboratory Services, CPHL
+    url: ''
+  - name: African Centre of Excellence, Infectious Diseases Institute
+    url: ''
+  - name: University of Amsterdam
+    url: ''
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+    url: mailto:ivangunz23@gmail.com
+    label: E-mail
+  - icon: at-symbol
+    url: mailto:ivan.sserwadda@mak.ac.ug
+    label: Makerere E-mail
+  - icon: at-symbol
+    url: mailto:i.sserwadda@amsterdamumc.nl
+    label: Amsterdam UMC E-mail
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/GunzIvan28
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Infectious disease genomics
+  - Antimicrobial resistance
+  - Metagenomics
+  - Microbial genomics
+  - NGS workflow development
+  - Public health surveillance
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD Fellow
+    institution: University of Amsterdam
+    start: 2022-08-01
+  - degree: MSc in Bioinformatics
+    institution: Pwani University
+    start: 2019-08-01
+    end: 2022-08-01
+  - degree: BSc in Medical Laboratory Science
+    institution: International Health Sciences University
+    start: 2012-08-01
+    end: 2015-12-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Bioinformatician
+    org: Uganda National Health Laboratory Services, CPHL
+    location: Kampala, Uganda
+    start: 2022-07-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Supports NGS and high-throughput sequencing data analysis from the National Genomics Reference Laboratory for HIV, SARS-CoV-2, malaria, cancer, and Gram-negative Enterobacteriaceae. Also supports software solutions for M&E, ICT, and logistics departments.
+  - role: Research Data Scientist
+    org: African Centre of Excellence, Infectious Diseases Institute
+    location: Kampala, Uganda
+    start: 2021-05-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Analyzes microbial genomics data for pathogen typing, genomic characterization, and antimicrobial resistance. Develops automated and scalable microbial bioinformatics pipelines for genomic sequence data and contributes to peer-reviewed manuscripts.
+  - role: Lab Coordinator
+    org: The Childhood Acute Illness and Nutrition Network
+    location: Kampala, Uganda
+    start: 2017-01-01
+    end: 2020-12-31
+    summary: |
+      Managed CHAIN project sample collection, transportation, documentation, analytical procedures, reporting, storage, equipment maintenance, local biorepository operations, and IATA-compliant annual sample shipping.
+  - role: Research Assistant
+    org: College of Health Sciences, Makerere University
+    location: Kampala, Uganda
+    start: 2012-01-01
+    end: 2015-12-31
+    summary: |
+      Managed sample collection, documentation, microbiological and molecular biology processing, and compliance with QMS guidelines, SOPs, standards, and safety precautions.
+  - role: Medical Laboratory Technologist
+    org: Kings Ark Medical Center
+    location: Kampala, Uganda
+    start: 2011-01-01
+    end: 2012-12-31
+    summary: |
+      Processed microbiological and molecular biology samples and supported laboratory quality, documentation, and safety procedures.
 
 skills:
-  - name: Technical Skills
+  - name: Programming & Data Science
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: R
         level: 5
-      - label: Cloud Computing
+      - label: SQL
         level: 4
-  - name: Research & Communication
+      - label: Statistical analysis
+        level: 5
+      - label: Machine learning
+        level: 4
+  - name: Bioinformatics & Genomics
     items:
-      - label: Academic Writing
+      - label: NGS workflow development
         level: 5
-      - label: Conference Presentations
+      - label: Microbial genomics
+        level: 5
+      - label: Metagenomics
+        level: 5
+      - label: AMR analysis
+        level: 5
+      - label: Phylogenetics
         level: 4
-      - label: Grant Proposals
+  - name: Workflow Engineering
+    items:
+      - label: Nextflow
+        level: 4
+      - label: Docker
+        level: 4
+      - label: Singularity
+        level: 4
+      - label: Git/GitHub
+        level: 5
+      - label: Shell scripting
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: 4-CAGETB PhD Award
+    awarder: 4-CAGE-TB
+    date: "2022-01-01"
+    summary: Fellowship supporting work on mobile health-based cough audio triage testing for active pulmonary tuberculosis in high-burden settings.
+    icon: hero/trophy
+  - title: Amsterdam Institute for Global Health and Development Fellowship
+    awarder: AIGHD
+    date: "2022-01-01"
+    summary: PhD fellow program for global health researchers across disciplines.
+    icon: hero/trophy
+  - title: African Research Collaboration on Sepsis Fellowship
+    awarder: ARCS
+    date: "2021-11-01"
+    summary: Early Career Research Fellowship in Bioinformatics and Systems Biology at the University of Amsterdam.
+    icon: hero/trophy
+  - title: MUII-Plus - BreCA Master's Scholarship
+    awarder: MUII-Plus / BreCA
+    date: "2019-01-01"
+    summary: Financial support for MSc training in Bioinformatics at Pwani University in Kilifi, Kenya.
     icon: hero/trophy

@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Open-Source and Pipeline Development
+      text: Reproducible bioinformatics workflows for microbial genomics, antimicrobial resistance, metagenomics, and public health surveillance.
       filters:
         folders:
           - projects

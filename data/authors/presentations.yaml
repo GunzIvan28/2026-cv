@@ -1,0 +1,59 @@
+schema: hugoblox/author/v1
+slug: presentations
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Oral and Poster Presentations
+bio: ''
+
+experience:
+  - role: Utilizing the microbiome to understand the pathogenesis and diagnosis of tuberculosis
+    org: 8th World One Health Congress
+    start: 2024-08-20
+    end: 2024-08-23
+    summary: |
+      Scientific and Science Policy Interface Program, Cape Town, South Africa.
+  - role: "Empowering Public Health Response with Antimicrobial Resistance Bioinformatics: Insights from the Implementation and validation of rMAP"
+    org: Public Alliance for Genomics and Epidemiology
+    start: 2023-10-31
+    summary: |
+      Cape Town, South Africa.
+  - role: "AMR Genomics Tools Network Session: The Rapid Microbial Analysis Pipeline (rMAP)"
+    org: Southern African Training & Research Network for Genomic Surveillance of Antimicrobial Resistance
+    start: 2022-03-18
+    summary: |
+      Virtual presentation.
+  - role: "Application of Antimicrobial Resistance-Based Bioinformatics approaches in clinical care: A case study of rMAP"
+    org: Infectious Diseases Institute Research Forum
+    start: 2021-09-17
+    summary: |
+      Makerere University, Uganda.
+  - role: "Viral Bioinformatics and Genomics in Kampala, Uganda"
+    org: Bioinformatics and genomics training
+    start: 2019-06-23
+    end: 2019-06-28
+    summary: |
+      Kampala, Uganda.
+  - role: "Antimicrobial Resistance: Next-Generation Sequencing & Bioinformatics"
+    org: Host-Pathogen Interaction Workshop
+    start: 2019-03-21
+    summary: |
+      Kolping Hotel, Kampala.
+  - role: "Lung Health: Metagenomics, Next-Generation Sequencing & Bioinformatics"
+    org: Day of Lung Science
+    start: 2019-03-20
+    summary: |
+      Makerere University College of Health Sciences.
+  - role: Alliance for Global Health and Science and Makerere University Summer Workshops
+    org: Alliance for Global Health and Science / Makerere University
+    start: 2017-01-01
+    end: 2018-12-31
+    summary: |
+      Summer workshop presentations and training contributions.
+  - role: "Bioinformatics & Next Generation Sequencing Techniques Short Course"
+    org: Short course
+    start: 2018-03-01
+    summary: |
+      Bioinformatics and NGS techniques training.

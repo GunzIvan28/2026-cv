@@ -1,0 +1,325 @@
+schema: hugoblox/author/v1
+slug: coursework
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Bioinformatics Teaching and Training
+bio: ''
+
+education:
+  - degree: Introduction to Python Programming and Biopython (MSB7203)
+    institution: Makerere University MSc and PhD Bioinformatics
+    start: 2021-01-01
+    end: To Present
+    summary: |
+      Postgraduate teaching for Masters and PhD bioinformatics students.
+  - degree: Principles of Sequence Analysis and Phylogenetics (MSB7202)
+    institution: Makerere University MSc and PhD Bioinformatics
+    start: 2021-01-01
+    end: To Present
+    summary: |
+      Postgraduate teaching in sequence analysis and phylogenetics.
+  - degree: Bioinformatics and Genomics Practical Training
+    institution: College of Health Sciences, Makerere University
+    start: 2018-01-01
+    end: 2019-12-31
+    summary: |
+      Delivered tutorial sessions, presentations, and practical programming classes for graduate students and researchers through the pre-doctoral Bioinformatics Mentorship on Computational and Molecular Epidemiology of TB in Uganda.
+  - degree: Introduction to Bioinformatics and 16S rRNA Microbiome Training
+    institution: H3BioNet Program
+    start: 2017-01-01
+    end: 2019-12-31
+    summary: |
+      Supported online beginner and intermediate bioinformatics courses, including 16S rRNA microbiome intermediate bioinformatics training.
+
+experience:
+  - role: "Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis"
+    org: FutureLearn
+    start: 2021-06-07
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/fnodugk
+      icon: hero/arrow-top-right-on-square
+  - role: Using Python to Access Web Data
+    org: Coursera
+    start: 2020-08-03
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/18541dc94e39a05c8643f535fcf3d605
+      icon: hero/arrow-top-right-on-square
+  - role: R programming
+    org: Coursera
+    start: 2020-07-07
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/afb877ff33185b488a66925d7bbc6f0c
+      icon: hero/arrow-top-right-on-square
+  - role: Python Data Structures
+    org: Coursera
+    start: 2020-06-05
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/1eb57c84a69eff826a2a7db2b4097b1c
+      icon: hero/arrow-top-right-on-square
+  - role: Julia Scientific Programming
+    org: Coursera
+    start: 2020-05-08
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/15d8e764be6ff044f1611ba268c483eb
+      icon: hero/arrow-top-right-on-square
+  - role: The Data Scientist's Toolbox
+    org: Coursera
+    start: 2020-05-17
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/7a799fd763320adb20f51517291adae7
+      icon: hero/arrow-top-right-on-square
+  - role: "Python programming: A concise Introduction"
+    org: Coursera
+    start: 2020-05-04
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/481c7325494f6dae393a65df9f141cd8
+      icon: hero/arrow-top-right-on-square
+  - role: "Programming for Everybody: Getting Started with Python"
+    org: Coursera
+    start: 2020-04-18
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/412bf0ef59f8473955ee2a09213a80a3
+      icon: hero/arrow-top-right-on-square
+  - role: The Unix Workbench
+    org: Coursera
+    start: 2019-05-26
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/0c68eca4e7e1cb2d4f5812662463788c
+      icon: hero/arrow-top-right-on-square
+  - role: Antimicrobial resistance - theory and methods
+    org: Coursera
+    start: 2019-05-07
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/bf287aa93b432bd489a2bbc463c80c5b
+      icon: hero/arrow-top-right-on-square
+  - role: "Genomic Technologies in Clinical Diagnostics: Next Generation Sequencing"
+    org: FutureLearn
+    start: 2018-12-08
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/jhmmznh
+      icon: hero/arrow-top-right-on-square
+  - role: Epidemics, Pandemics and Outbreaks
+    org: Coursera
+    start: 2018-11-19
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/89b560f6b9c56a300a361036468921f0
+      icon: hero/arrow-top-right-on-square
+  - role: Bioinformatic Methods II
+    org: Coursera
+    start: 2018-11-17
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/ffeeed9b752ff05cd88a1f6e7d4adc9a
+      icon: hero/arrow-top-right-on-square
+  - role: "Epidemics: the Dynamics of Infectious Diseases"
+    org: Coursera
+    start: 2018-11-01
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/e9a0c971b6c7e7068d980d271ec0e066
+      icon: hero/arrow-top-right-on-square
+  - role: From Disease to Genes and Back
+    org: Coursera
+    start: 2018-10-31
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/779a664d5f993d4b4b3b99d73bbdee1f
+      icon: hero/arrow-top-right-on-square
+  - role: Ethical and Social Challenges of Genomic and Precision Medicine
+    org: Coursera
+    start: 2018-10-29
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/e8c9e98a08427213bef5bb0d14bbaa0b
+      icon: hero/arrow-top-right-on-square
+  - role: "Genetics and Society: A Course for Educators"
+    org: Coursera
+    start: 2018-10-18
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/394c57035123d76cad76575a2fe6faea
+      icon: hero/arrow-top-right-on-square
+  - role: Genomic and Precision Medicine
+    org: Coursera
+    start: 2018-10-19
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/cad83e3e6308ee85f3d576b4fe554021
+      icon: hero/arrow-top-right-on-square
+  - role: DNA Decoded
+    org: Coursera
+    start: 2018-10-18
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/edb0989495f176f5d51f2fa9c6fd00d2
+      icon: hero/arrow-top-right-on-square
+  - role: "Bioinformatics: Introduction and Methods"
+    org: Coursera
+    start: 2018-09-04
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/41096fadb3062570c8cdcd1f2d97d8cc
+      icon: hero/arrow-top-right-on-square
+  - role: "Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis"
+    org: FutureLearn
+    start: 2018-09-19
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/fmigg1q
+      icon: hero/arrow-top-right-on-square
+  - role: Big Data, Genes, and Medicine
+    org: Coursera
+    start: 2018-08-18
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/05ed340f0919d12b544058dbb2616646
+      icon: hero/arrow-top-right-on-square
+  - role: Metagenomics applied to surveillance of pathogens and antimicrobial resistance
+    org: Coursera
+    start: 2018-07-31
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/5c829a166a190836378285b28a05b537
+      icon: hero/arrow-top-right-on-square
+  - role: Whole genome sequencing of bacterial genomes - tools and applications
+    org: Coursera
+    start: 2018-07-24
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/2c813326bbe20ce730d61629839093bf
+      icon: hero/arrow-top-right-on-square
+  - role: Bioinformatic Methods I
+    org: Coursera
+    start: 2018-07-18
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/01d21ff71999d0a5a5d0cbedec55eab1
+      icon: hero/arrow-top-right-on-square
+  - role: Introduction to Genomic Technologies
+    org: Coursera
+    start: 2018-07-06
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://coursera.org/share/797738c51384edb8ad9b84e10d944dc1
+      icon: hero/arrow-top-right-on-square
+  - role: "Bacterial Genomes I: From DNA to Protein Function Using Bioinformatics"
+    org: FutureLearn
+    start: 2018-06-13
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/iiioz69
+      icon: hero/arrow-top-right-on-square
+  - role: "Bacterial Genomes: Disease Outbreaks and Antimicrobial Resistance"
+    org: FutureLearn
+    start: 2018-05-15
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/s07vbe1
+      icon: hero/arrow-top-right-on-square
+  - role: Antimicrobial Resistance (Part 2)
+    org: Global Health eLearning Centre
+    start: 2017-12-12
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.globalhealthlearning.org/certificate/277056/g-c-completion-1388-1-277056
+      icon: hero/arrow-top-right-on-square
+  - role: Antimicrobial Resistance (Part 1)
+    org: Global Health eLearning Centre
+    start: 2017-12-11
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.globalhealthlearning.org/certificate/277056/g-c-completion-269017-1-277056
+      icon: hero/arrow-top-right-on-square
+  - role: "The Genomics Era: the Future of Genetics in Medicine"
+    org: FutureLearn
+    start: 2017-03-20
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/5y4cgg8
+      icon: hero/arrow-top-right-on-square
+  - role: "Genomic Medicine: Transforming Patient Care in Diabetes"
+    org: FutureLearn
+    start: 2017-03-16
+    summary: |
+      Completed online course and certificate.
+    button:
+      text: View certificate
+      url: https://www.futurelearn.com/certificates/5v4b45k
+      icon: hero/arrow-top-right-on-square

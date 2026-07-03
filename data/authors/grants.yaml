@@ -1,0 +1,51 @@
+schema: hugoblox/author/v1
+slug: grants
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Grants and Research Support
+bio: ''
+
+experience:
+  - role: "PHA4GE/2021-01 (51/2/22 99)"
+    org: Public Health Alliance for Genomic Epidemiology
+    start: 2022-06-01
+    end: 2023-06-30
+    summary: |
+      Role: PI. Whole genome sequencing analysis of pan-drug resistant bacterial isolates from Kampala, Uganda.
+
+      Amount awarded: USD 20,000.
+  - role: "EDCTP TMA2020CDF-3159 PHICAMS"
+    org: EDCTP
+    start: 2021-01-01
+    end: 2024-12-31
+    summary: |
+      Role: Co-PI. Pathogen detection in HIV-infected children and adolescents with non-malarial febrile illnesses using metagenomic next-generation sequencing in Uganda.
+
+      Amount awarded: USD 176,762.
+  - role: "GCA/AMR/rnd2/058"
+    org: Bill and Melinda Gates Foundation / Makerere University
+    start: 2019-06-01
+    end: 2021-05-31
+    summary: |
+      Role: Co-PI. Transmission dynamics and acquisition of antimicrobial resistance in referral hospitals and community settings in East Africa.
+
+      Amount awarded: USD 100,000.
+  - role: Validating rMAP
+    org: African Association for Research and Control of Anti-Microbial Resistance
+    start: 2020-12-01
+    end: 2021-08-31
+    summary: |
+      Role: PI. Validation of a rapid microbial bioinformatics pipeline to characterize the global burden of antimicrobial resistance.
+
+      Amount awarded: USD 13,215.
+  - role: SORT-IT
+    org: World Health Organization
+    start: 2020-08-01
+    end: 2021-01-31
+    summary: |
+      Role: Co-PI. Operational research support for data-rich, information-rich, action-rich health systems.
+
+      Amount awarded: USD 3,200.
