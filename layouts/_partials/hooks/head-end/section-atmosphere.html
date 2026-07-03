@@ -1,0 +1,123 @@
+<style>
+  :root {
+    --cv-surface: var(--hb-color-background, #ffffff);
+    --cv-ink: var(--hb-color-foreground, #111827);
+    --cv-teal: 20 184 166;
+    --cv-blue: 59 130 246;
+    --cv-emerald: 16 185 129;
+    --cv-violet: 124 58 237;
+    --cv-amber: 245 158 11;
+    --cv-rose: 244 63 94;
+  }
+
+  .hbb-section {
+    position: relative;
+    overflow: clip;
+    isolation: isolate;
+  }
+
+  .hbb-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+    pointer-events: none;
+    background:
+      radial-gradient(circle at 10% 10%, rgba(var(--cv-a, var(--cv-teal)) / 0.14), transparent 34rem),
+      radial-gradient(circle at 92% 22%, rgba(var(--cv-b, var(--cv-blue)) / 0.11), transparent 32rem),
+      linear-gradient(180deg, rgba(var(--cv-a, var(--cv-teal)) / 0.07), rgba(var(--cv-b, var(--cv-blue)) / 0.06));
+  }
+
+  .hbb-section::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -1px;
+    height: 7rem;
+    z-index: -1;
+    pointer-events: none;
+    background: linear-gradient(180deg, transparent, var(--cv-surface));
+  }
+
+  #research-focus {
+    --cv-a: var(--cv-teal);
+    --cv-b: var(--cv-blue);
+  }
+
+  #papers {
+    --cv-a: var(--cv-blue);
+    --cv-b: var(--cv-emerald);
+  }
+
+  #talks {
+    --cv-a: var(--cv-amber);
+    --cv-b: var(--cv-rose);
+  }
+
+  #news {
+    --cv-a: var(--cv-violet);
+    --cv-b: var(--cv-teal);
+  }
+
+  #courses {
+    --cv-a: var(--cv-blue);
+    --cv-b: var(--cv-violet);
+  }
+
+  #projects {
+    --cv-a: var(--cv-emerald);
+    --cv-b: var(--cv-blue);
+  }
+
+  #papers .group > .relative:last-child,
+  #talks .group > .relative:last-child,
+  #news .group > .relative:last-child,
+  #courses .group > .relative:last-child,
+  #projects .group > .relative:last-child {
+    box-shadow:
+      0 18px 44px rgba(var(--cv-a, var(--cv-teal)) / 0.08),
+      0 2px 12px rgba(15 23 42 / 0.06);
+  }
+
+  #papers .group:hover > .relative:last-child,
+  #talks .group:hover > .relative:last-child,
+  #news .group:hover > .relative:last-child,
+  #courses .group:hover > .relative:last-child,
+  #projects .group:hover > .relative:last-child {
+    box-shadow:
+      0 24px 58px rgba(var(--cv-b, var(--cv-blue)) / 0.14),
+      0 4px 16px rgba(15 23 42 / 0.08);
+  }
+
+  .dark {
+    --cv-surface: var(--hb-color-background, #0b1120);
+  }
+
+  .dark .hbb-section::before {
+    background:
+      radial-gradient(circle at 10% 10%, rgba(var(--cv-a, var(--cv-teal)) / 0.16), transparent 34rem),
+      radial-gradient(circle at 92% 22%, rgba(var(--cv-b, var(--cv-blue)) / 0.13), transparent 32rem),
+      linear-gradient(180deg, rgba(var(--cv-a, var(--cv-teal)) / 0.08), rgba(var(--cv-b, var(--cv-blue)) / 0.07));
+  }
+
+  .dark #papers .group > .relative:last-child,
+  .dark #talks .group > .relative:last-child,
+  .dark #news .group > .relative:last-child,
+  .dark #courses .group > .relative:last-child,
+  .dark #projects .group > .relative:last-child {
+    box-shadow:
+      0 18px 44px rgba(var(--cv-a, var(--cv-teal)) / 0.12),
+      0 2px 12px rgba(0 0 0 / 0.12);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    #papers .group > .relative:last-child,
+    #talks .group > .relative:last-child,
+    #news .group > .relative:last-child,
+    #courses .group > .relative:last-child,
+    #projects .group > .relative:last-child {
+      transition: none;
+    }
+  }
+</style>

@@ -1,0 +1,98 @@
+schema: hugoblox/author/v1
+slug: projects
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Open-Source and Pipeline Development
+bio: ''
+
+experience:
+  - role: rMAP 2.0
+    org: Modular microbial genomics workflow
+    date: "2026"
+    summary: |
+      A modular, containerized bioinformatics workflow for microbial genomic data analysis and profiling of antimicrobial resistance, mobilome, virulome, and phylogenomics. Supports MLST typing, variant calling, and BLASTn-based sequence similarity search.
+    tags:
+      - AMR
+      - Phylogenomics
+      - Containerized Workflows
+    button:
+      text: View project
+      url: https://bit.ly/4xTzxZ0
+      icon: hero/arrow-top-right-on-square
+  - role: HIV-DRIVES
+    org: HIV drug resistance surveillance pipeline
+    date: "2024"
+    summary: |
+      Pipeline for HIV drug resistance identification, variant evaluation, and surveillance, designed to support reproducible HIV resistance profiling and public health genomics workflows.
+    tags:
+      - HIV
+      - Drug Resistance
+      - Genomic Surveillance
+    button:
+      text: View project
+      url: https://bit.ly/4uYXECZ
+      icon: hero/arrow-top-right-on-square
+  - role: CASCADE
+    org: Short-read metagenomics workflow
+    date: "2024"
+    summary: |
+      Reproducible short-read metagenomics pipeline for ecological profiling, case-control comparisons, outcome analyses, and microbial association discovery.
+    tags:
+      - Metagenomics
+      - Microbiome
+      - Reproducible Workflows
+  - role: rMAP-TB
+    org: Mycobacteria genomics workflow
+    date: "2024"
+    summary: |
+      Reproducible Dockerized WDL/Cromwell workflow for public-health-oriented analysis of Mycobacterium tuberculosis complex and non-MTBC Mycobacteria genomic data.
+    tags:
+      - Tuberculosis
+      - Public Health
+      - WDL
+    button:
+      text: View project
+      url: https://bit.ly/4wf9Dx8
+      icon: hero/arrow-top-right-on-square
+  - role: rMAP-Candida
+    org: Candida whole-genome sequencing workflow
+    date: "2024"
+    summary: |
+      Dockerized WDL/Cromwell workflow for paired-end Candida whole-genome sequencing analysis.
+    tags:
+      - Candida
+      - WDL
+      - Cromwell
+    button:
+      text: View project
+      url: https://bit.ly/4vF12UU
+      icon: hero/arrow-top-right-on-square
+  - role: rMAP
+    org: Rapid Microbial Analysis Pipeline
+    date: "2021"
+    summary: |
+      Easy-to-use resistome profiling bioinformatics pipeline for ESKAPE pathogens using Illumina paired-end whole-genome sequencing reads. Supports Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species.
+    tags:
+      - Antimicrobial Resistance
+      - Microbial Genomics
+      - Whole-Genome Sequencing
+    button:
+      text: View project
+      url: https://bit.ly/36g809L
+      icon: hero/arrow-top-right-on-square
+  - role: Makerere University MSc Introduction to Python for Bioinformatics
+    org: Bioinformatics teaching notebooks
+    date: "2021"
+    summary: |
+      Jupyter notebooks combining Python code and documentation to support MSc and PhD bioinformatics teaching at Makerere University.
+    tags:
+      - Teaching
+      - Python
+      - Bioinformatics
+    button:
+      text: View project
+      url: https://bit.ly/3Iackb5
+      icon: hero/arrow-top-right-on-square

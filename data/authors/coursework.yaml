@@ -37,7 +37,7 @@ education:
 experience:
   - role: "Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis"
     org: FutureLearn
-    start: 2021-06-07
+    date: June 2021
     summary: |
       Completed online course and certificate.
     button:
@@ -46,7 +46,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Using Python to Access Web Data
     org: Coursera
-    start: 2020-08-03
+    date: August 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -55,7 +55,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: R programming
     org: Coursera
-    start: 2020-07-07
+    date: July 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -64,7 +64,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Python Data Structures
     org: Coursera
-    start: 2020-06-05
+    date: June 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -73,7 +73,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Julia Scientific Programming
     org: Coursera
-    start: 2020-05-08
+    date: May 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -82,7 +82,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: The Data Scientist's Toolbox
     org: Coursera
-    start: 2020-05-17
+    date: May 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -91,7 +91,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Python programming: A concise Introduction"
     org: Coursera
-    start: 2020-05-04
+    date: May 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -100,7 +100,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Programming for Everybody: Getting Started with Python"
     org: Coursera
-    start: 2020-04-18
+    date: April 2020
     summary: |
       Completed online course and certificate.
     button:
@@ -109,7 +109,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: The Unix Workbench
     org: Coursera
-    start: 2019-05-26
+    date: May 2019
     summary: |
       Completed online course and certificate.
     button:
@@ -118,7 +118,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Antimicrobial resistance - theory and methods
     org: Coursera
-    start: 2019-05-07
+    date: May 2019
     summary: |
       Completed online course and certificate.
     button:
@@ -127,7 +127,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Genomic Technologies in Clinical Diagnostics: Next Generation Sequencing"
     org: FutureLearn
-    start: 2018-12-08
+    date: December 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -136,7 +136,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Epidemics, Pandemics and Outbreaks
     org: Coursera
-    start: 2018-11-19
+    date: November 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -145,7 +145,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Bioinformatic Methods II
     org: Coursera
-    start: 2018-11-17
+    date: November 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -154,7 +154,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Epidemics: the Dynamics of Infectious Diseases"
     org: Coursera
-    start: 2018-11-01
+    date: November 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -163,7 +163,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: From Disease to Genes and Back
     org: Coursera
-    start: 2018-10-31
+    date: October 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -172,7 +172,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Ethical and Social Challenges of Genomic and Precision Medicine
     org: Coursera
-    start: 2018-10-29
+    date: October 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -181,7 +181,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Genetics and Society: A Course for Educators"
     org: Coursera
-    start: 2018-10-18
+    date: October 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -190,7 +190,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Genomic and Precision Medicine
     org: Coursera
-    start: 2018-10-19
+    date: October 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -199,7 +199,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: DNA Decoded
     org: Coursera
-    start: 2018-10-18
+    date: October 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -208,7 +208,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Bioinformatics: Introduction and Methods"
     org: Coursera
-    start: 2018-09-04
+    date: September 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -217,7 +217,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis"
     org: FutureLearn
-    start: 2018-09-19
+    date: September 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -226,7 +226,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Big Data, Genes, and Medicine
     org: Coursera
-    start: 2018-08-18
+    date: August 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -235,7 +235,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Metagenomics applied to surveillance of pathogens and antimicrobial resistance
     org: Coursera
-    start: 2018-07-31
+    date: July 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -244,7 +244,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Whole genome sequencing of bacterial genomes - tools and applications
     org: Coursera
-    start: 2018-07-24
+    date: July 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -253,7 +253,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Bioinformatic Methods I
     org: Coursera
-    start: 2018-07-18
+    date: July 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -262,7 +262,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Introduction to Genomic Technologies
     org: Coursera
-    start: 2018-07-06
+    date: July 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -271,7 +271,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Bacterial Genomes I: From DNA to Protein Function Using Bioinformatics"
     org: FutureLearn
-    start: 2018-06-13
+    date: June 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -280,7 +280,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Bacterial Genomes: Disease Outbreaks and Antimicrobial Resistance"
     org: FutureLearn
-    start: 2018-05-15
+    date: May 2018
     summary: |
       Completed online course and certificate.
     button:
@@ -289,7 +289,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Antimicrobial Resistance (Part 2)
     org: Global Health eLearning Centre
-    start: 2017-12-12
+    date: December 2017
     summary: |
       Completed online course and certificate.
     button:
@@ -298,7 +298,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: Antimicrobial Resistance (Part 1)
     org: Global Health eLearning Centre
-    start: 2017-12-11
+    date: December 2017
     summary: |
       Completed online course and certificate.
     button:
@@ -307,7 +307,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "The Genomics Era: the Future of Genetics in Medicine"
     org: FutureLearn
-    start: 2017-03-20
+    date: March 2017
     summary: |
       Completed online course and certificate.
     button:
@@ -316,7 +316,7 @@ experience:
       icon: hero/arrow-top-right-on-square
   - role: "Genomic Medicine: Transforming Patient Care in Diabetes"
     org: FutureLearn
-    start: 2017-03-16
+    date: March 2017
     summary: |
       Completed online course and certificate.
     button:

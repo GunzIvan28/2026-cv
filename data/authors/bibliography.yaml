@@ -1,0 +1,186 @@
+schema: hugoblox/author/v1
+slug: bibliography
+is_owner: false
+name:
+  display: Ivan Sserwadda
+  given: Ivan
+  family: Sserwadda
+role: Bibliography and Publications
+bio: ''
+
+experience:
+  - role: "Genomic characterization of ESBL-producing Escherichia coli isolates from patients in an orthopaedic ward in Mwanza, Tanzania"
+    org: F1000Research
+    date: "2026"
+    summary: |
+      Mboowa, G., Kidenya, B.R., Sserwadda, I., Kanyerezi, S. and Seni, J., 2026. Genomic characterization of ESBL-producing Escherichia coli isolates from patients in an orthopaedic ward in Mwanza, Tanzania. F1000Research, 15, p.670.
+  - role: "Whole-genome analysis of a multidrug-resistant Klebsiella michiganensis environmental isolate from an orthopedic ward in Mwanza, Tanzania reveals IncF-family plasmid replicon signatures associated with resistance determinants"
+    org: BMC Genomics
+    date: "2026"
+    summary: |
+      Mboowa, G., Kidenya, B.R., Sserwadda, I., Kanyerezi, S. and Seni, J., 2026. Whole-genome analysis of a multidrug-resistant Klebsiella michiganensis environmental isolate from an orthopedic ward in Mwanza, Tanzania reveals IncF-family plasmid replicon signatures associated with resistance determinants. BMC genomics.
+  - role: Targeted metagenomics reveals hidden chickenpox epidemic amid Mpox surveillance in Uganda
+    org: Scientific Reports
+    date: "2026"
+    summary: |
+      Kanyerezi, S., Ayitewala, A., Kabahita, J.M., Sserwadda, I., Oundo, H.R., Sseruyange, J., Tenywa, W., Tusabe, G., Were, S., Murungi, M., Nabukyu, M. and Nakintu, V., 2026. Targeted metagenomics reveals hidden chickenpox epidemic amid Mpox surveillance in Uganda. Scientific Reports. 2026 Feb 6;16(1):7591. doi: 10.1038/s41598-026-38778-z. PMID: 41651909.
+  - role: "rMAP 2.0: a modular, reproducible, and scalable WDL-Cromwell-Docker workflow for genomic analysis of ESKAPEE pathogens"
+    org: Bioinformatics Advances
+    date: "2026"
+    summary: |
+      Mboowa, G., Sserwadda, I. and Kanyerezi, S., 2026. rMAP 2.0: a modular, reproducible, and scalable WDL-Cromwell-Docker workflow for genomic analysis of ESKAPEE pathogens. Bioinformatics Advances, 6(1), p.vbag046. https://doi.org/10.1093/bioadv/vbag046.
+  - role: Pathways, outputs and impact of NIH-supported bioinformatics and genomics graduate trainees in Africa
+    org: Briefings in Bioinformatics
+    date: "2026"
+    summary: |
+      Jjingo D, Walakira A, Hashim S, Cheickna C, Galiwango R, Kibet C, Kivunike FN, Mboowa G, Ssekagiri A, Bbosa N, Mulindwa J, Kyobe S, Nsubuga M, Kebirungi G, Katagirya E, Mwesigwa S, Lujumba I, Kamulegeya R, Kirimunda S, Kanyerezi S, Kiyaga S, Sserwadda I, Kiberu D, Kayondo JK, Masiga D; H3Africa Consortium. Pathways, outputs and impact of NIH-supported bioinformatics and genomics graduate trainees in Africa. Brief Bioinform. 2026 Jan 7;27(1):bbag046. doi: 10.1093/bib/bbag046. PMID: 41678735; PMCID: PMC12900072.
+  - role: "Harnessing Genomics for Public Health: Use-Case Insights from Uganda"
+    org: Public Health Genomics
+    date: "2025"
+    summary: |
+      Ssemaganda, A., Ayitewala, A., Kanyerezi, S., Oundo, H.R., Seruyange, J., Tenywa, W., Tusabe, G., Were, S., Murungi, M., Sserwadda, I. and Kiyaga, S., 2025. Harnessing Genomics for Public Health: Use-Case Insights from Uganda.
+  - role: Multidrug resistant hypervirulent ST307 clone from genomic surveillance of extended spectrum beta-lactamase-producing Klebsiella pneumoniae species complex in East Africa
+    org: BMC Microbiology
+    date: "2025"
+    summary: |
+      Kidenya, B.R., Sserwadda, I., Kanyerezi, S., Akaro, I.L., Mkinze, B., Hashim, S.O., Isoe, E., Joloba, M.L., Mboowa, G. and Seni, J., 2025. Multidrug resistant hypervirulent ST307 clone from genomic surveillance of extended spectrum beta-lactamase-producing Klebsiella pneumoniae species complex in East Africa. BMC microbiology, 25(1), p.755. PMID: 41249930.
+  - role: Genomic characterization of Citrobacter freundii clinical isolates from Tanzania
+    org: Microbiology Resource Announcements
+    date: "2025"
+    summary: |
+      Mboowa, G., Kidenya, B.R., Sserwadda, I., Kanyerezi, S., Akaro, I.L., Mkinze, B. and Seni, J., 2025. Genomic characterization of Citrobacter freundii clinical isolates from Tanzania. Microbiology Resource Announcements, 14(8), pp.e00363-25. PMID: 40600716.
+  - role: "The dawn of a cure for sickle cell disease through CRISPR-based treatment: A critical test of equity in public health genomics"
+    org: Annals of Human Genetics
+    date: "2025"
+    summary: |
+      Mboowa G, Sserwadda I, Kanyerezi S, Tukwasibwe S, Kidenya B. The dawn of a cure for sickle cell disease through CRISPR-based treatment: A critical test of equity in public health genomics. Ann Hum Genet. 2025 Jul;89(4):188-194. doi: 10.1111/ahg.12558. Epub 2024 Mar 22. PMID: 38517013.
+  - role: "Beyond the fever: shotgun metagenomic sequencing of stool unveils pathogenic players in HIV-infected children with non-malarial febrile illness"
+    org: BMC Infectious Diseases
+    date: "2025"
+    summary: |
+      Nabisubi P, Kanyerezi S, Kebirungi G, Sserwadda I, Nsubuga M, Kisitu G, Nahirya PN, Mulindwa B, Akabwai GP, Nantongo S, Kekitiinwa A, Kigozi E, Luutu NM, Katabazi FA, Kalema L, Katabalwa A, Jjingo D, Mboowa G. Beyond the fever: shotgun metagenomic sequencing of stool unveils pathogenic players in HIV-infected children with non-malarial febrile illness. BMC Infect Dis. 2025 Jan 21;25(1):96. doi: 10.1186/s12879-025-10517-1. PMID: 39838275.
+  - role: Whole genome-based characterization of extended-spectrum beta-lactamase-producing Enterobacter cloacae from orthopedic patients and environment of a tertiary referral hospital in Tanzania
+    org: New Microbes and New Infections
+    date: "2024"
+    summary: |
+      Kidenya BR, Mboowa G, Sserwadda I, Kanyerezi S, Nakafu E, Akaro IL, Mkinze B, Joloba ML, Seni J. Whole genome-based characterization of extended-spectrum beta-lactamase-producing Enterobacter cloacae from orthopedic patients and environment of a tertiary referral hospital in Tanzania. New Microbes New Infect. 2024 Sep 21;62:101486. doi: 10.1016/j.nmni.2024.101486. PMID: 39386352.
+  - role: The rise of pathogen genomics in Africa
+    org: F1000Research
+    date: "2024"
+    summary: |
+      Mboowa G, Kakooza F, Egesa M, Tukwasibwe S, Kanyerezi S, Sserwadda I, R Kidenya B, Kabahita JM, Namaganda MM, Nsubuga M, Nabisubi P, Ayitewala A, Kebirungi G, Nakafu E, Akwii NP. The rise of pathogen genomics in Africa. F1000Res. 2024 Sep 4;13:468. doi: 10.12688/f1000research.147114.2. PMID: 39464779.
+  - role: Metagenomics insights into the microbial resistome and virulome composition of Kampala's wastewater
+    org: Open Research Africa
+    date: "2024"
+    summary: |
+      Kanyerezi, S., Nabisubi, P., Kebirungi, G., Sserwadda, I., R. Kidenya, B., Jjingo, D. and Mboowa, G., 2024. Metagenomics insights into the microbial resistome and virulome composition of Kampala's wastewater. Open Research Africa, 7, p.8.
+  - role: "HIV-DRIVES: HIV drug resistance identification, variant evaluation, & surveillance pipeline"
+    org: Access Microbiology
+    date: "2024"
+    summary: |
+      Kanyerezi, S., Sserwadda, I., Ssemaganda, A., Seruyange, J., Ayitewala, A., Oundo, H.R., Tenywa, W., Kagurusi, B.A., Tusabe, G., Were, S. and Ssewanyana, I., 2024. HIV-DRIVES: HIV drug resistance identification, variant evaluation, & surveillance pipeline. Access Microbiology, pp.000815-v1. https://bit.ly/3PDpfHX.
+  - role: Unraveling virulence determinants in extended-spectrum beta-lactamase-producing Escherichia coli from East Africa using whole-genome sequencing
+    org: BMC Infectious Diseases
+    date: "2023"
+    summary: |
+      Sserwadda, I., Kidenya, B. R., Kanyerezi, S., Akaro, I. L., Mkinze, B., Mshana, S. E., ... & Mboowa, G. (2023). Unraveling virulence determinants in extended-spectrum beta-lactamase-producing Escherichia coli from East Africa using whole-genome sequencing. BMC Infectious Diseases, 23(1), 587.
+  - role: Virulence genes and plasmid replicon profiles of selected beta-Lactamases producing Acinetobacter baumannii from orthopedic patients and environment in a tertiary referral hospital in Tanzania, East Africa
+    org: Journal of Hospital Infection
+    date: "2023"
+    summary: |
+      Kidenya BR, Mboowa G, Sserwadda I, Kanyerezi S, Nakafu E, Akaro IL, Mkinze B, Joloba ML, Seni J, Virulence genes and plasmid replicon profiles of selected beta-Lactamases producing Acinetobacter baumannii from orthopedic patients and environment in a tertiary referral hospital in Tanzania, East Africa, J Hosp Infect. 2023. PMID: 37729952.
+  - role: Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS, S/AS01 vaccine
+    org: Immunogenetics
+    date: "2023"
+    summary: |
+      Tukwasibwe, S., Mboowa, G., Sserwadda, I., Nankabirwa, J.I., Arinaitwe, E., Ssewanyana, I., Taremwa, Y., Tumusiime, G., Kamya, M.R., Jagannathan, P. and Nakimuli, A., 2023. Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS, S/AS01 vaccine. Immunogenetics, 75(3), pp.207-214.
+  - role: Characterizing microbial diversity and resistome in urban sewage using shotgun metagenomics in Kampala, Uganda
+    org: The Global Health Network Collections
+    date: "2023"
+    summary: |
+      Kanyerezi, S., Nabisubi, P., Kebirungi, G., Sserwadda, I. and Mboowa, G., 2023. Characterizing microbial diversity and resistome in urban sewage using shotgun metagenomics in Kampala, Uganda. The Global Health Network Collections.
+  - role: Bioinformatics mentorship in a resource limited setting
+    org: Briefings in Bioinformatics
+    date: "2022"
+    summary: |
+      Jjingo, D., Mboowa, G., Sserwadda, I., Kakaire, R., Kiberu, D., Amujal, M., ... & Whalen, C. C. (2022). Bioinformatics mentorship in a resource limited setting. Briefings in Bioinformatics, 23(1), bbab399.
+  - role: "Workshop-based learning and networking: a scalable model for research capacity strengthening in low-and middle-income countries"
+    org: Global Health Action
+    date: "2022"
+    summary: |
+      Perier, C., Nasinghe, E., Charles, I., Ssetaba, L.J., Ahyong, V., Bangs, D., Beatty, P.R., Czudnochowski, N., Diallo, A., Sserwadda, I., Dugan, E. and Fabius, J.M., 2022. Workshop-based learning and networking: a scalable model for research capacity strengthening in low-and middle-income countries. Global Health Action, 15(1), p.2062175. DOI: 10.1080/16549716.2022.2062175.
+  - role: Microbial characteristics of dental caries in HIV positive individuals
+    org: Frontiers in Oral Health
+    date: "2022"
+    summary: |
+      Kalanzi D, Mayanja-Kizza H, Nakanjako D, Semitala F, Mboowa G, Mbabali M, Kigozi E, Katabazi FA, Sserwadda I, Kateete DP, Achan B, Sewankambo NK and Muwonge A (2022). Microbial characteristics of dental caries in HIV positive individuals. Front. Oral. Health 3:1004930. doi: 10.3389/froh.2022.1004930.
+  - role: First report of whole-genome analysis of an extensively drug-resistant Mycobacterium tuberculosis clinical isolate with bedaquiline, linezolid and clofazimine resistance from Uganda
+    org: Antimicrobial Resistance & Infection Control
+    date: "2022"
+    summary: |
+      Kabahita, J. M., Kabugo, J., Kakooza, F., Adam, I., Guido, O., Byabajungu, H., Ivan Sserwadda., ... & Mboowa, G. (2022). First report of whole-genome analysis of an extensively drug-resistant Mycobacterium tuberculosis clinical isolate with bedaquiline, linezolid and clofazimine resistance from Uganda. Antimicrobial Resistance & Infection Control, 11(1), 1-8. PMID: 35550202.
+  - role: rMAP, the Rapid Microbial Analysis Pipeline for ESKAPE bacterial group whole-genome sequence data
+    org: Microbial Genomics
+    date: "2021"
+    summary: |
+      Sserwadda I, Mboowa G. rMAP: the Rapid Microbial Analysis Pipeline for ESKAPE bacterial group whole-genome sequence data. Microbial Genomics. 2021 Jun;7(6). DOI: 10.1099/mgen.0.000583. PMID: 34110280.
+  - role: Transmission Dynamics of Antimicrobial Resistance at a National Referral Hospital in Uganda
+    org: American Journal of Tropical Medicine and Hygiene
+    date: "2021"
+    summary: |
+      Mboowa G, Sserwadda I, Bulafu D, et al. Transmission Dynamics of Antimicrobial Resistance at a National Referral Hospital in Uganda. The American Journal of Tropical Medicine and Hygiene. 2021 Jun. DOI: 10.4269/ajtmh.20-1522. PMID: 34181567.
+  - role: Increasing Antimicrobial Resistance in Surgical Wards at Mulago National Referral Hospital, Uganda, from 2014 to 2018 - Cause for Concern?
+    org: Tropical Medicine and Infectious Disease
+    date: "2021"
+    summary: |
+      Mboowa G, Aruhomukama D, Sserwadda I, et al. Increasing Antimicrobial Resistance in Surgical Wards at Mulago National Referral Hospital, Uganda, from 2014 to 2018-Cause for Concern? Tropical Medicine and Infectious Disease. 2021 May;6(2). DOI: 10.3390/tropicalmed6020082. PMID: 34069345.
+  - role: "Gastrointestinal tract colonization rate of extended-spectrum beta-lactamase-producing gram-negative bacteria and associated factors among orthopaedic patients in a tertiary hospital in Tanzania: implications for infection prevention"
+    org: Infection and Drug Resistance
+    date: "2021"
+    summary: |
+      Seni, J., Akaro, I.L., Mkinze, B., Kashinje, Z., Benard, M., Mboowa, G., Aruhomukama, D., Sserwadda, I., Joloba, M.L., Mshana, S.E. and Kidenya, B.R., 2021. Gastrointestinal tract colonization rate of extended-spectrum beta-lactamase-producing gram-negative bacteria and associated factors among orthopaedic patients in a tertiary hospital in Tanzania: implications for infection prevention. Infection and drug resistance, pp.1733-1745. PMID: 34007192.
+  - role: "Genomics and bioinformatics capacity in Africa: no continent is left behind"
+    org: Genome
+    date: "2020"
+    summary: |
+      Mboowa G, Sserwadda I, Aruhomukama D, (2020). Genomics and bioinformatics capacity in Africa: no continent is left behind. Genome. 0(0): 1-11. https://doi.org/10.1139/gen-2020-0013. PMID: 33433259.
+  - role: "Re-thinking antimicrobial resistance transmission dynamics: a meta-analysis of cross-sectional studies at referral hospitals in Uganda"
+    org: F1000Research
+    date: "2020"
+    summary: |
+      Mboowa, G., Sserwadda, I., & Aruhomukama, D. (2020). Re-thinking antimicrobial resistance transmission dynamics: a meta-analysis of cross-sectional studies at referral hospitals in Uganda. F1000Research, 9(878), 878.
+  - role: Whole-genome sequence analysis reveals evolution of antimicrobial resistance in a Ugandan colistin resistant Acinetobacter baumannii
+    org: bioRxiv
+    date: "2020"
+    summary: |
+      Aruhomukama, D., Sserwadda, I. and Mboowa, G., 2020. Whole-genome sequence analysis reveals evolution of antimicrobial resistance in a Ugandan colistin resistant Acinetobacter baumannii. bioRxiv, pp.2020-06.
+  - role: bla VIM- and bla OXA-mediated carbapenem resistance among Acinetobacter baumannii and Pseudomonas aeruginosa isolates from the Mulago hospital intensive care unit in Kampala, Uganda
+    org: BMC Infectious Diseases
+    date: "2019"
+    summary: |
+      Aruhomukama, D., Najjuka, C. F., Kajumbula, H., Okee, M., Mboowa, G., Sserwadda, I., ... & Kateete, D. P. (2019). bla VIM-and bla OXA-mediated carbapenem resistance among Acinetobacter baumannii and Pseudomonas aeruginosa isolates from the Mulago hospital intensive care unit in Kampala, Uganda. BMC infectious diseases, 19(1), 853. PMID: 31619192.
+  - role: Role of genomics literacy in reducing the burden of common genetic diseases in Africa
+    org: Molecular Genetics & Genomic Medicine
+    date: "2019"
+    summary: |
+      Mboowa, G., & Sserwadda, I. (2019). Role of genomics literacy in reducing the burden of common genetic diseases in Africa. Molecular genetics & genomic medicine, e776. PMID: 31131548.
+  - role: "Investigating colistin drug resistance: The role of high-throughput sequencing and bioinformatics"
+    org: F1000Research
+    date: "2019"
+    summary: |
+      Aruhomukama, D., Sserwadda, I., & Mboowa, G. (2019). Investigating colistin drug resistance: The role of high-throughput sequencing and bioinformatics. F1000Research, 8. PMID: 31354944.
+  - role: Whole-genome sequence analysis of Vibrio cholerae from three outbreaks in Uganda, 2014-2016
+    org: F1000Research
+    date: "2019"
+    summary: |
+      Aruhomukama D, Sserwadda I, Mboowa G. (2019). Whole-genome sequence analysis of Vibrio cholerae from three outbreaks in Uganda, 2014-2016. F1000Research, 8(1340), 1340.
+  - role: Microbial contaminants isolated from items and work surfaces in the post-operative ward at Kawolo general hospital, Uganda
+    org: BMC Infectious Diseases
+    date: "2018"
+    summary: |
+      Sserwadda, I., Lukenge, M., Mwambi, B., Mboowa, G., Walusimbi, A., & Segujja, F. (2018). Microbial contaminants isolated from items and work surfaces in the post-operative ward at Kawolo general hospital, Uganda. BMC infectious diseases, 18(1), 68. PMID: 29409447.
+  - role: "Human Genomic Loci Important in Common Infectious Diseases: Role of High-Throughput Sequencing and Genome-Wide Association Studies"
+    org: Canadian Journal of Infectious Diseases and Medical Microbiology
+    date: "2018"
+    summary: |
+      Mboowa, G., Sserwadda, I., Amujal, M., & Namatovu, N. (2018). Human Genomic Loci Important in Common Infectious Diseases: Role of High-Throughput Sequencing and Genome-Wide Association Studies. Canadian Journal of Infectious Diseases and Medical Microbiology, 2018. PMID: 29755620.

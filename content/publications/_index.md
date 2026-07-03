@@ -1,12 +1,18 @@
 ---
-title: Publications
+title: Bibliography and Publications
 cms_exclude: true
+type: landing
 
-# View.
-view: citation
+design:
+  spacing: '5rem'
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: resume-experience
+    id: papers
+    content:
+      username: bibliography
+      experience_title: Bibliography and Publications
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
 ---

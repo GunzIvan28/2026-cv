@@ -17,17 +17,17 @@ experience:
       Scientific and Science Policy Interface Program, Cape Town, South Africa.
   - role: "Empowering Public Health Response with Antimicrobial Resistance Bioinformatics: Insights from the Implementation and validation of rMAP"
     org: Public Alliance for Genomics and Epidemiology
-    start: 2023-10-31
+    date: October 2023
     summary: |
       Cape Town, South Africa.
   - role: "AMR Genomics Tools Network Session: The Rapid Microbial Analysis Pipeline (rMAP)"
     org: Southern African Training & Research Network for Genomic Surveillance of Antimicrobial Resistance
-    start: 2022-03-18
+    date: March 2022
     summary: |
       Virtual presentation.
   - role: "Application of Antimicrobial Resistance-Based Bioinformatics approaches in clinical care: A case study of rMAP"
     org: Infectious Diseases Institute Research Forum
-    start: 2021-09-17
+    date: September 2021
     summary: |
       Makerere University, Uganda.
   - role: "Viral Bioinformatics and Genomics in Kampala, Uganda"
@@ -38,12 +38,12 @@ experience:
       Kampala, Uganda.
   - role: "Antimicrobial Resistance: Next-Generation Sequencing & Bioinformatics"
     org: Host-Pathogen Interaction Workshop
-    start: 2019-03-21
+    date: March 2019
     summary: |
       Kolping Hotel, Kampala.
   - role: "Lung Health: Metagenomics, Next-Generation Sequencing & Bioinformatics"
     org: Day of Lung Science
-    start: 2019-03-20
+    date: March 2019
     summary: |
       Makerere University College of Health Sciences.
   - role: Alliance for Global Health and Science and Makerere University Summer Workshops
@@ -54,6 +54,6 @@ experience:
       Summer workshop presentations and training contributions.
   - role: "Bioinformatics & Next Generation Sequencing Techniques Short Course"
     org: Short course
-    start: 2018-03-01
+    date: March 2018
     summary: |
       Bioinformatics and NGS techniques training.

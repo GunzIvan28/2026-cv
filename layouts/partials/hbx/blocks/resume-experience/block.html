@@ -63,6 +63,7 @@
       {{ $button_url := "" }}
       {{ $button_text := "" }}
       {{ $button_icon := "" }}
+      {{ $date_text := "" }}
 
       {{ with index . "role" }}{{ $role = strings.TrimSpace (printf "%v" .) }}{{ end }}
       {{ if not $role }}{{ with index . "position" }}{{ $role = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
@@ -72,6 +73,7 @@
       {{ if not $start }}{{ with index . "date_start" }}{{ $start = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
       {{ with index . "end" }}{{ $end = strings.TrimSpace (printf "%v" .) }}{{ end }}
       {{ if not $end }}{{ with index . "date_end" }}{{ $end = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+      {{ with index . "date" }}{{ $date_text = strings.TrimSpace (printf "%v" .) }}{{ end }}
       {{ with index . "summary" }}{{ $summary = strings.TrimSpace (printf "%v" .) }}{{ end }}
       {{ with index . "icon" }}{{ $icon = strings.TrimSpace (printf "%v" .) }}{{ end }}
 
@@ -103,7 +105,7 @@
       {{ end }}
 
       {{ if or $role $org }}
-        {{ $experience = $experience | append (dict "role" $role "org" $org "start" $start "end" $end "summary" $summary "icon" $icon "tags" $tags "button" (dict "url" $button_url "text" $button_text "icon" $button_icon)) }}
+        {{ $experience = $experience | append (dict "role" $role "org" $org "start" $start "end" $end "date" $date_text "summary" $summary "icon" $icon "tags" $tags "button" (dict "url" $button_url "text" $button_text "icon" $button_icon)) }}
       {{ end }}
     {{ end }}
   {{ end }}
@@ -214,7 +216,10 @@
               <time>
                 {{ $start := index $item "start" }}
                 {{ $end := index $item "end" }}
-                {{ if $start }}
+                {{ $date_text := index $item "date" }}
+                {{ if $date_text }}
+                  {{ $date_text }}
+                {{ else if $start }}
                   {{ $parsed := try (time $start) }}
                   {{ if not $parsed.Err }}
                     {{ $parsed.Value | time.Format $date_format }} –
@@ -229,7 +234,7 @@
                   {{ else }}
                     {{ $end }}
                   {{ end }}
-                {{ else }}
+                {{ else if not $date_text }}
                   <span class="text-primary-600 dark:text-primary-400 font-medium">{{ i18n "present" | default "Present" }}</span>
                 {{end}}
               </time>
@@ -348,7 +353,10 @@
               <time>
                 {{ $start := index $item "start" }}
                 {{ $end := index $item "end" }}
-                {{ if $start }}
+                {{ $date_text := index $item "date" }}
+                {{ if $date_text }}
+                  {{ $date_text }}
+                {{ else if $start }}
                   {{ $parsed := try (time $start) }}
                   {{ if not $parsed.Err }}
                     {{ $parsed.Value | time.Format $date_format }} –
@@ -363,7 +371,7 @@
                   {{ else }}
                     {{ $end }}
                   {{ end }}
-                {{ else }}
+                {{ else if not $date_text }}
                   <span class="text-primary-600 dark:text-primary-400 font-medium">{{ i18n "present" | default "Present" }}</span>
                 {{end}}
               </time>

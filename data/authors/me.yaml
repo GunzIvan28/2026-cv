@@ -13,7 +13,11 @@ status:
   icon: "dna"
 role: Bioinformatics Data Scientist
 bio: |
-  Ivan Sserwadda is Bioinformatics Data Scientist and infectious disease genomics researcher with expertise in next-generation sequencing, microbial genomics, antimicrobial resistance, metagenomics, and reproducible pipeline development. Experienced in analyzing high-throughput sequencing data for public health surveillance, pathogen characterization, and clinical research across HIV, tuberculosis, malaria, SARS-CoV-2, cancer, and bacterial pathogens. Skilled in Python, R, workflow automation, containerized bioinformatics, statistical analysis, machine learning, and open-source tool development. Strong track record in grant-funded research, scientific publishing, postgraduate teaching, and collaborative capacity building in African genomics and global health.
+  Bioinformatics Data Scientist and infectious disease genomics researcher specializing in next-generation sequencing, microbial genomics, antimicrobial resistance, metagenomics, and reproducible workflow development.
+
+  I translate high-throughput sequencing data into actionable insight for public health surveillance, pathogen characterization, and clinical research across HIV, tuberculosis, malaria, SARS-CoV-2, cancer, and bacterial pathogens.
+
+  My work combines Python, R, workflow automation, containerized bioinformatics, statistical analysis, machine learning, and open-source pipeline development, with a strong record in grant-funded research, scientific publishing, postgraduate teaching, and genomics capacity building across African and global health contexts.
 
 affiliations:
   - name: Uganda National Health Laboratory Services, CPHL

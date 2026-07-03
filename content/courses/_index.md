@@ -1,28 +1,19 @@
 ---
 title: Courses
-summary: My courses
+summary: Bioinformatics teaching, training, and online courses.
 type: landing
 
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
+design:
+  spacing: '5rem'
 
 sections:
-  - block: collection
+  - block: resume-experience
     id: courses
     content:
-      title: Courses
-      filters:
-        tag: Course
-        kinds:
-          - section
+      username: coursework
+      education_title: Bioinformatics Teaching and Training
+      experience_title: Online Training and Courses
     design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+      date_format: 'January 2006'
+      is_education_first: true
 ---

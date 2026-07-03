@@ -26,67 +26,43 @@ sections:
         size: medium
         shape: circle
   - block: markdown
+    id: research-focus
     content:
       title: 'Research Focus'
       subtitle: ''
       text: |-
-        I develop and apply reproducible bioinformatics workflows for infectious disease genomics, antimicrobial resistance, metagenomics, and public health surveillance.
+        **Infectious Disease Genomics**  
+        I develop and apply reproducible bioinformatics workflows for pathogen genomics, antimicrobial resistance, metagenomics, and public health surveillance.
 
-        My work spans high-throughput sequencing analysis for HIV, tuberculosis, malaria, SARS-CoV-2, cancer, bacterial pathogens, and environmental metagenomics, with a focus on capacity building and open-source tools for African genomics and global health.
+        **High-Throughput Sequence Analysis**  
+        My work spans HIV, tuberculosis, malaria, SARS-CoV-2, cancer, bacterial pathogens, and environmental metagenomics using scalable NGS analysis approaches.
 
-        I teach and mentor in Python, Biopython, sequence analysis, phylogenetics, microbiome analysis, and NGS data interpretation.
+        **Training and Open Science**  
+        I teach, mentor, and build capacity in Python, Biopython, sequence analysis, phylogenetics, microbiome analysis, and NGS data interpretation.
     design:
       columns: '1'
-  - block: collection
+  - block: resume-experience
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
+      username: bibliography
+      experience_title: Bibliography and Publications
     design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
+      date_format: 'January 2006'
+      is_education_first: false
+  - block: resume-experience
     id: talks
     content:
-      title: Oral and Poster Presentations
-      filters:
-        folders:
-          - events
+      username: presentations
+      experience_title: Oral and Poster Presentations
     design:
-      view: card
-  - block: collection
+      date_format: 'January 2006'
+      is_education_first: false
+  - block: resume-experience
     id: news
     content:
-      title: Community and Professional Activities
-      subtitle: ''
-      text: ''
-      page_type: blog
-      count: 10
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
+      username: memberships
+      experience_title: Community and Professional Activities
     design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
+      date_format: 'January 2006'
+      is_education_first: false
 ---
