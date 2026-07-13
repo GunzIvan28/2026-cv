@@ -11,16 +11,16 @@ tags:
   - Bioinformatics
 featured: true
 type: landing
+
 design:
-  spacing: 5rem
+  spacing: '5rem'
+
 sections:
   - block: resume-experience
     content:
       username: presentations
       experience_title: Oral and Poster Presentations
     design:
-      date_format: January 2006
+      date_format: 'January 2006'
       is_education_first: false
-event_start: 2024-08-20
 ---
-
